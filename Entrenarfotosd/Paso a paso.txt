@@ -1,0 +1,6 @@
+Correr primero:
+Taller_AutoTrain_Dreambooth
+
+Correr despues focus:
+
+Poner el archivo lora generado en el autotrain y ponerlo en la ruta de: /content/Fooocus/models/loras
